@@ -1,11 +1,10 @@
-## Title
-	- རྗེས་དཀར་ཨོ་ཚུལ་གྱི་ལས་འགྲིག་
-
-## Author
-	- 
-
-
-
-[<img src="https://img.icons8.com/color/25/000000/edit-property.png"> Open in Editor](http://editor.openpecha.org/P000727)
-
-[<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Open in Buda](https://library.bdrc.io/show/bdr:IE0OPP000727)
+|P000727|རྗེས་དཀར་ཨོ་ཚུལ་གྱི་ལས་འགྲིག 
+| --- | --- 
+|Alternative Title |རྗེས་དཀར་དགེ་སློང་ཨོ་རྒྱན་ཚུལ་ཁྲིམས་ཀྱི་གསུང་རྩོམ་ལས་འགྲིག་ལྷན་བསྡུས་ཤེས་དཀར་མེ་ལོང་།
+|Author| ཨོ་རྒྱན་ཚུལ་ཁྲིམས།
+|BDRC ID | W1PD137832
+|Creator | Google OCR
+|Number of Volumes| 1
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P000727)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P000727/releases/download/v2/je_ka_ra_o_tsul_gyi_la_sa_drik_plain_P000727.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P000727/releases/download/v2/je_ka_ra_o_tsul_gyi_la_sa_drik_pages_P000727.zip)
+|<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W1PD137832)
